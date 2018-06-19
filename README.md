@@ -19,9 +19,6 @@ Here are some pictures of my app:
 
 Loading page and the easy to use UI with the option to input different values in order to calculate the price of an option.
 
-
-
-
 ![alt tag](https://i.imgur.com/vE274KU.png "Fetching the price of the the Microsoft stock and the calculation of the difference between two dates")
 
 Fetching the price of a single Microsoft stock and the calculation of the difference between two dates.
