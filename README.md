@@ -12,3 +12,7 @@ order to calculate the price of an European-styled option.
 
 In addition to that, my app also allows the user to fetch the the current price of a stock (e.g. starting a query with "AAPL" will return
 the actual price in $ at that given moment) and to automatically calculate the difference in days between two dates.
+
+![alt tag](https://i.imgur.com/lODP0AL.png "Loading page and the UI")
+
+![alt tag](https://i.imgur.com/vE274KU.png "Fetching the price of the the Microsoft stock and the calculation of the difference between two dates")
