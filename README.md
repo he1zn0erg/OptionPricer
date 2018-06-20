@@ -7,10 +7,10 @@ Model that has been invented in 1973 by the two economists Fischer Black und Myr
 Nobel Prize.
 
 The formula is pretty simple and allows everyone to easily calculate the price of an European call and put option. The formula needs the 
-current stock price, option's strike price, expected volatility, expected interest rates and the time left to the option's expiry date in
+current stock price, strike price, expected volatility, expected interest rates and the time left to the option's expiry date in
 order to calculate the price of an European-styled option.
 
-In addition to that, my app also allows the user to fetch the the current price of a stock (e.g. starting a query with "AAPL" will return
+In addition to that, my app also allows the user to fetch the the current price of a stock (e.g. starting a query with "MSFT" will return
 the actual price in $ at that given moment) and to automatically calculate the difference in days between two dates.
 
 Here are some pictures of my app:
